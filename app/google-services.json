@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10534338053",
+    "project_id": "pushnotification-d987e",
+    "storage_bucket": "pushnotification-d987e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10534338053:android:2a25e7de79f8cad592266c",
+        "android_client_info": {
+          "package_name": "com.laurentdarl.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10534338053-1f74j76vpn5ku67pmdafp63qkitpt013.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSlG5N4LO5BVsLmLtzsu7b-FudxyQFzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10534338053-1f74j76vpn5ku67pmdafp63qkitpt013.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
